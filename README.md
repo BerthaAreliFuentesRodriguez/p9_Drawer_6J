@@ -17,8 +17,20 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
-## Link para Drawer
-- https://api.flutter.dev/flutter/widgets/ListView-class.html
+## Link para TabBar
+- https://codesinsider.com/flutter-tabbar-tabbarview-example-tutorial/?expand_article=1
+- https://blog.logrocket.com/flutter-tabbar-a-complete-tutorial-with-examples/
+- https://www.freecodecamp.org/news/navigation-in-flutter/
 
-### Resultado de Drawer
-- ![image](https://github.com/BerthaAreliFuentesRodriguez/p9_Drawer_6J/assets/143548448/560d05e9-e32e-412d-8140-03811a5468c9)
+### Resultado de TabBar
+#### Opcion 1
+![image](https://github.com/BerthaAreliFuentesRodriguez/p9_Drawer_6J/assets/143548448/ea5213c4-cfd9-45f2-9eba-4a52e49dbed1)
+
+#### Opcion 2
+![image](https://github.com/BerthaAreliFuentesRodriguez/p9_Drawer_6J/assets/143548448/30b98572-a783-455c-b0f6-2921cac7beba)
+
+#### Opcion 3
+![image](https://github.com/BerthaAreliFuentesRodriguez/p9_Drawer_6J/assets/143548448/fc600355-618c-4004-b9dd-61da0c481634)
+
+#### Opcion 4
+![image](https://github.com/BerthaAreliFuentesRodriguez/p9_Drawer_6J/assets/143548448/c66d1fc3-1d95-4b55-978c-27230495e02b)
