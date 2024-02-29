@@ -19,3 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 - Join the discussion and conversation on https://flutlab.io/residents
 ## Link para Drawer
 - https://api.flutter.dev/flutter/widgets/ListView-class.html
+
+### Resultado de Drawer
+- ![image](https://github.com/BerthaAreliFuentesRodriguez/p9_Drawer_6J/assets/143548448/560d05e9-e32e-412d-8140-03811a5468c9)
